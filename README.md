@@ -14,8 +14,11 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 -Average Rating: The average customer rating for items sold.  
 
 
-## Dashboard Interaction
-< a href= "https://github.com/Anamika52342singh/Data-Analysis-Dashboard/blob/main/blinkit.pbix"></a>
+## Dashboard Screenshot
+![Screenshot 2024-09-29 154802](https://github.com/user-attachments/assets/2859ab3d-cbca-4a6f-a7a4-a92193733b42)
+![screenshot dashboard](https://github.com/user-attachments/assets/85e69dba-5a2d-4873-b936-9bbc4537b515)
+
+
 
 
 
