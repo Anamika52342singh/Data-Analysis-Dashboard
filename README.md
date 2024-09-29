@@ -8,10 +8,10 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 ## Question KPIs
-Total Sales: The overall revenue generated from all items sold.   
-Average Sales: The average revenue per sales.  
-Number Of Items: The total count of different items sold.   
-Average Rating: The average customer rating for items sold.  
+-Total Sales: The overall revenue generated from all items sold.   
+-Average Sales: The average revenue per sales.  
+-Number Of Items: The total count of different items sold.   
+-Average Rating: The average customer rating for items sold.  
 
 
 ## Dashboard Interaction
