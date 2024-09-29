@@ -17,9 +17,6 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ## Dashboard Interaction
 < a href= "https://github.com/Anamika52342singh/Data-Analysis-Dashboard/blob/main/blinkit.pbix"></a>
 
-## Dashboard Screenshot
-<a href= "https://www.canva.com/design/DAGSInGuZac/RWgLyMeQZ_0JbuDqR6dbuA/edit?utm_content=DAGSInGuZac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-
 
 
 
