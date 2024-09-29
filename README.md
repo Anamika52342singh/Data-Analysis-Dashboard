@@ -4,7 +4,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 ## Dataset Used
-< a href= "https://github.com/Anamika52342singh/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">
+< a href= "https://github.com/Anamika52342singh/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"></a>
 
 
 ## Question KPIs
@@ -15,7 +15,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 ## Dashboard Interaction
-<a href="https://github.com/Anamika52342singh/Data-Analysis-Dashboard/blob/main/blinkit.pbix">
+< a href= "https://github.com/Anamika52342singh/Data-Analysis-Dashboard/blob/main/blinkit.pbix"></a>
 
 
 
